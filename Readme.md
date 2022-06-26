@@ -7,7 +7,7 @@ which easily allow me to work with creation, updates and deletion of information
 having to think too much about the business itself and can focus more in the implementation side.
 
 ### How to run
-TBA
+In your console, go to the project folder and run ***gradle build***
 
 ### Technologies used
 * Java 17
